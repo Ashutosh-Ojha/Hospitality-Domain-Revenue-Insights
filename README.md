@@ -1,7 +1,7 @@
 # Business and Data Intelligence Dashboard Project
 
 ## Overview:
-s
+
 Welcome to the Business and Data Intelligence Dashboard project! This repository showcases a comprehensive dashboard developed using PowerBI, DAX, and Power Query to empower businesses with actionable insights. The project includes custom metrics designed to support revenue optimization and drive strategies for market share growth.
 
 ## Key Features:
